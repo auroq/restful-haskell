@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Repl" type="HaskellStackConfigurationType" factoryName="Haskell Stack REPL" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="staff-management" />
+    <option name="allowRunningInParallel" value="false" />
+    <option name="stackArgs" value="" />
+    <option name="stackTarget" value="staff-management:lib" />
+    <option name="workingDirPath" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
