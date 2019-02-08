@@ -2,7 +2,7 @@
   <configuration default="false" name="Test" type="HaskellStackConfigurationType" factoryName="Haskell Stack Tester" show_console_on_std_err="false" show_console_on_std_out="false">
     <module name="staff-management" />
     <option name="allowRunningInParallel" value="false" />
-    <option name="stackArgs" value="--allow-different-user" />
+    <option name="stackArgs" value="" />
     <option name="testArguments" value="--color" />
     <option name="testSuiteTargetName" value="staff-management:test:staff-management-test" />
     <option name="workingDirPath" value="$PROJECT_DIR$" />

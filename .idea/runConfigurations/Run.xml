@@ -4,7 +4,7 @@
     <option name="allowRunningInParallel" value="false" />
     <option name="executable" value="staff-management-exe" />
     <option name="programArgs" value="" />
-    <option name="stackArgs" value="--allow-different-user" />
+    <option name="stackArgs" value="" />
     <option name="workingDirPath" value="$PROJECT_DIR$" />
     <method v="2">
       <option name="Make" enabled="true" />
