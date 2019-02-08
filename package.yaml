@@ -24,6 +24,11 @@ dependencies:
 - aeson
 - Spock
 - text
+- monad-logger
+- persistent
+- persistent-sqlite
+- persistent-template
+- http-types
 
 library:
   source-dirs: src
